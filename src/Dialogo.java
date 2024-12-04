@@ -14,7 +14,7 @@ public class Dialogo {
         System.out.println(Dialogo.Escenario);
 
         //conversación
-        
+        System.out.println("Hola, yo osy el personaje2, que tal");
 
         System.out.println(Dialogo.Desenlace);
     }
