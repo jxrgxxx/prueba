@@ -15,6 +15,7 @@ public class Dialogo {
 
         //conversación
         System.out.println("Hola");
+        System.out.println("Adios");
         System.out.println(Dialogo.Desenlace);
     }
 }
