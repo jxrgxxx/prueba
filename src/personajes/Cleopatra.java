@@ -5,7 +5,7 @@ package personajes;
  */
 public class Cleopatra {
     public static String nombre;
-    public static StrAing descripcionFisica;
+    public static String descripcionFisica;
     public static String historia;
     public static String fraseTipica;
 
